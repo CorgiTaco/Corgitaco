@@ -3,7 +3,7 @@
 [![CurseForge](https://img.shields.io/badge/Curseforge-Corgi_Taco-edf6d3?style=for-the-badge&labelColor=07523b&logo=Curseforge)](https://www.curseforge.com/members/corgi_taco/projects)
 
 <a href="https://github-readme-stats.vercel.app/api?username=CorgiTaco&show_icons=true&theme=vue-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CorgiTaco&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CorgiTaco&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" />
 </a>
 </br>
 </br>
