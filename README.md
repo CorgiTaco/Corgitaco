@@ -18,9 +18,9 @@
 
 
 <a href="https://github.com/corgitaco">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=corgitaco&theme=merko&rank_icon=percentile&include_all_commits=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=corgitaco&theme=merko&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://github.com/corgitaco">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=corgitaco&theme=merko&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=corgitaco&theme=merko&layout=compact&langs_count=8&card_width=320" />
 </a>
 
