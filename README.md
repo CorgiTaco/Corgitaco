@@ -22,7 +22,7 @@
 
 - 268+ million downloads across all my [open-source mods](https://www.curseforge.com/members/corgi_taco/projects)!
 
-- 1.5+ years leading the development of UGC content for big content creators including MrBeast Gaming and SocksFor1!
+- 2.5+ years leading the development of UGC content for big content creators including MrBeast Gaming and SocksFor1!
 
 - 5.5+ million total views for [2 released videos](https://www.youtube.com/playlist?list=PLv9ftxjIVZhOWmPEH9VbX282EZzBGV7TB).
 
