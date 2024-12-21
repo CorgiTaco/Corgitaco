@@ -16,11 +16,11 @@
 
 <h2>💼 Career Highlights</h2>
 
-- 4+ years of Java development experience.
+- 5+ years of Java development experience.
 
-- 4+ years creating Minecraft mods with Forge and Fabric!
+- 5+ years creating Minecraft mods with Forge and Fabric!
 
-- 160+ million downloads across all my [open-source mods](https://www.curseforge.com/members/corgi_taco/projects)!
+- 268+ million downloads across all my [open-source mods](https://www.curseforge.com/members/corgi_taco/projects)!
 
 - 1.5+ years leading the development of UGC content for big content creators including MrBeast Gaming and SocksFor1!
 
